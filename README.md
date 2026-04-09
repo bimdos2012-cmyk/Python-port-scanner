@@ -31,6 +31,7 @@ for port in range(1, 1025):
     if result == 0:
         print(f"Port {port} is open")
 
-    s.close()
+   s.close()
+```
 ## Screenshot
 ![Port Scanner Output](python-port-scanner-output.png)
