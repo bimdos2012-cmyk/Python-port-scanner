@@ -32,3 +32,5 @@ for port in range(1, 1025):
         print(f"Port {port} is open")
 
     s.close()
+## Screenshot
+![Port Scanner Output](python-port-scanner-output.png)
